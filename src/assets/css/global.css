@@ -19509,10 +19509,10 @@ a.action_button:hover{text-decoration:none}
 
 /* Wrap | Equal Height */
 .equal-height-wrap .mcb-wrap .mcb-wrap-inner{position:relative;float:left;width:100%}
-.equal-height-wrap .mcb-wrap.valign-middle .mcb-wrap-inner{top:50%;-webkit-transform:translateY(-50%);-moz-transform:translateY(-50%);-ms-transform:translateY(-50%);-o-transform:translateY(-50%);transform:translateY(-50%)}
-.equal-height-wrap .mcb-wrap.valign-bottom .mcb-wrap-inner{top:100%;-webkit-transform:translateY(-100%);-moz-transform:translateY(-100%);-ms-transform:translateY(-100%);-o-transform:translateY(-100%);transform:translateY(-100%)}
+.equal-height-wrap .mcb-wrap .valign-middle .mcb-wrap-inner{top:50%;-webkit-transform:translateY(-50%);-moz-transform:translateY(-50%);-ms-transform:translateY(-50%);-o-transform:translateY(-50%);transform:translateY(-50%)}
+.equal-height-wrap .mcb-wrap .valign-bottom .mcb-wrap-inner{top:100%;-webkit-transform:translateY(-100%);-moz-transform:translateY(-100%);-ms-transform:translateY(-100%);-o-transform:translateY(-100%);transform:translateY(-100%)}
 
 
-#Content.no-padding, .template-slider #Content, .with_aside #Content {
+#Content .no-padding, .template-slider #Content, .with_aside #Content {
     padding-top: 0px !important;
 }
